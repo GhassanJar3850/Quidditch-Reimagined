@@ -1,0 +1,167 @@
+# Blender 3.4.1 MTL File: 'Rigged Default Model.blend'
+# www.blender.org
+
+newmtl None
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+Pr 0.900757
+Pm 0.000000
+Ps 0.000000
+Pc 0.000000
+Pcr 0.030000
+aniso 0.000000
+anisor 0.000000
+map_Kd C:/Users/ccsmu/Desktop/New folder/HP3Harry_hairA.png
+
+newmtl default
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+Pr 0.900757
+Pm 0.000000
+Ps 0.000000
+Pc 0.000000
+Pcr 0.030000
+aniso 0.000000
+anisor 0.000000
+map_Kd C:/Users/ccsmu/Desktop/New folder/default-grey.jpg
+
+newmtl material_0
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+Pr 0.900757
+Pm 0.000000
+Ps 0.000000
+Pc 0.000000
+Pcr 0.030000
+aniso 0.000000
+anisor 0.000000
+map_Kd C:/Users/ccsmu/Desktop/New folder/HP3Harry_Cloak.png
+map_Ks C:/Users/ccsmu/Desktop/New folder/HP3Harry_Cloak_S.png
+
+newmtl material_1
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+Pr 0.900757
+Pm 0.000000
+Ps 0.000000
+Pc 0.000000
+Pcr 0.030000
+aniso 0.000000
+anisor 0.000000
+map_Kd C:/Users/ccsmu/Desktop/New folder/HP3Harry_Cloak.png
+map_Ks C:/Users/ccsmu/Desktop/New folder/HP3Harry_Cloak_S.png
+
+newmtl material_2
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+Pr 0.900757
+Pm 0.000000
+Ps 0.000000
+Pc 0.000000
+Pcr 0.030000
+aniso 0.000000
+anisor 0.000000
+map_Kd C:/Users/ccsmu/Desktop/New folder/HP3Harry_uniform.png
+
+newmtl material_3
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+Pr 0.900757
+Pm 0.000000
+Ps 0.000000
+Pc 0.000000
+Pcr 0.030000
+aniso 0.000000
+anisor 0.000000
+map_Kd C:/Users/ccsmu/Desktop/New folder/HP3Harry_Head.png
+
+newmtl material_4
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+Pr 0.900757
+Pm 0.000000
+Ps 0.000000
+Pc 0.000000
+Pcr 0.030000
+aniso 0.000000
+anisor 0.000000
+map_Kd C:/Users/ccsmu/Desktop/New folder/HP3Gen_mouth.png
+
+newmtl material_5
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+Pr 0.900757
+Pm 0.000000
+Ps 0.000000
+Pc 0.000000
+Pcr 0.030000
+aniso 0.000000
+anisor 0.000000
+map_Kd C:/Users/ccsmu/Desktop/New folder/at_gen_eye_green.png
+
+newmtl material_6
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+Pr 0.900757
+Pm 0.000000
+Ps 0.000000
+Pc 0.000000
+Pcr 0.030000
+aniso 0.000000
+anisor 0.000000
+map_Kd C:/Users/ccsmu/Desktop/New folder/HP3Gen_handsWhite.png
+
+newmtl material_7
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.600000
+illum 1
+Pr 0.900757
+Pm 0.000000
+Ps 0.000000
+Pc 0.000000
+Pcr 0.030000
+aniso 0.000000
+anisor 0.000000
+map_Kd C:/Users/ccsmu/Desktop/New folder/HP3Harry_glasses.png
+
+newmtl material_8
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+Pr 0.900757
+Pm 0.000000
+Ps 0.000000
+Pc 0.000000
+Pcr 0.030000
+aniso 0.000000
+anisor 0.000000
+map_Kd C:/Users/ccsmu/Desktop/New folder/HP3Harry_hairA.png
